@@ -1,2 +1,2 @@
-# Valores-nico-contadores
+# Valores-único-contadores
 Valores únicos contadores
